@@ -1,6 +1,6 @@
 const Caver = require("caver-js");
 
-const JSON_RPC_PROVIDER = "https://klaytn04.fandom.finance" // JSON-RPC provider url
+const JSON_RPC_PROVIDER = "https://public-node-api.klaytnapi.com/v1/cypress" // JSON-RPC provider url
 const REVERSE_RECORDS_ADDRESS = "0x87f4483E4157a6592dd1d1546f145B5EE22c790a";
 const REVERSE_RECORDS_ABI = [
   {
